@@ -11,7 +11,7 @@ Clone the repo
 
 Run the local server inside the client folder
    ```sh
-   run on live server
+   python3 game.py
    ```
 
 <p align="center">
